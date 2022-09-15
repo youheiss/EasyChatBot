@@ -4,7 +4,7 @@
 1. 在 [@botfather](https://t.me/botfather) 处申请一个bot的API Token
 2. 在服务器上执行下列命令（请先安装git)
 ```
-git clone https://github.com/Tooruchan/simple-forwarder-bot
+git clone https://github.com/youheiss/EasyChatBot
 pip install python-telegram-bot --upgrade
 ```
 3. 打开config.json,将其中的Token字符串内容修改为你从BotFather获取到的Token,在admin里填入你的id(即用 [@userinfobot](https://t.me/userinfobot) 等bot获取到的id)
